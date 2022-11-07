@@ -1,0 +1,156 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+/*#j {
+	background-image: url("assets/journalismbg.png"); 
+	 background-repeat: no-repeat;
+	 background-size: cover;
+}*/
+
+header {
+	background-image: url("assets/wilson.jpg");
+	background-size: cover;
+	background-position: center;
+	padding-bottom: 15em;
+}
+#j h2 {
+	padding-bottom: .5em;
+}
+/* Carousel base class */
+.carousel {
+  margin-bottom: 1rem;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  bottom: 1rem;
+  z-index: 10;
+  color: black;
+  top: 0;
+  bottom: auto;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 15rem;
+}
+ 
+#navbarNavDropdown {
+	justify-content: right;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    filter: invert(100%);
+}
+
+#j {
+	background-color: #EDEDED;
+	padding-top: 3em;
+	padding-bottom: 2em;
+}
+
+#dvc {
+	background-color: #EDEDED;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+
+#ca {
+	background-color: #EDEDED;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+#id {
+	background-color: #EDEDED;
+	padding-top: 2em;
+	padding-bottom: 3em;
+}
+
+#images {
+	padding-bottom: 2em;
+	filter: drop-shadow(4px 4px 10px #9E9E9E);
+}
+
+#about {
+	padding: 1em;
+}
+
+#opportunities {
+	padding-top: 4em;
+	padding-bottom: 4em;
+}
+
+.thumbnails {
+	padding: 2em;
+}
+
+h1 {
+	font-family: 'Urbanist', sans-serif;
+	text-transform: uppercase;
+	font-size: 2.5em;
+}
+
+h2 {
+	font-family: 'Urbanist', sans-serif;
+	font-size: 3em;
+}
+
+
+h3 {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 3em;
+}
+/*font-family: 'Bebas Neue', cursive;
+font-family: 'Urbanist', sans-serif;*/
+
+#j h3 {
+	background-color: #A4222C;
+	margin-right: 30%;
+	padding-left: 3em;
+	margin-left: -3em;
+	color: #fff;
+	padding-bottom: .25em;
+	padding-top: .25em;
+	border-radius: .6em;
+}
+
+#dvc h3 {
+	background-color: #FEC708;
+	margin-right: 30%;
+	padding-left: 3em;
+	margin-left: -3em;
+	color: #fff;
+	padding-bottom: .25em;
+	padding-top: .25em;
+	border-radius: .6em;
+}
+
+#ca h3 {
+	background-color: #AACE36;
+	margin-right: 30%;
+	padding-left: 3em;
+	margin-left: -3em;
+	color: #fff;
+	padding-bottom: .25em;
+	padding-top: .25em;
+	border-radius: .6em;
+}
+
+#id h3 {
+	background-color: #3396B6;
+	margin-right: 30%;
+	padding-left: 3em;
+	margin-left: -3em;
+	color: #fff;
+	padding-bottom: .25em;
+	padding-top: .25em;
+	border-radius: .6em;
+}
+
+
+#images img {
+	margin-bottom: 2em;
+}
+
+
+
+
